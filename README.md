@@ -38,10 +38,12 @@ I wanna write!
 Sheesh! one more freaking Markup language..
 
 
-#Alexander Graham Bell
+# Alexander Graham Bell
+
 !["Photo of Alexander Graham Bell"](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Alexander_Graham_Bell.jpg/184px-Alexander_Graham_Bell.jpg)
 
-####Birth: March 3, 1847
-####Death: August 2, 1922	
+#### Birth: March 3, 1847
+
+#### Death: August 2, 1922	
 
 -----
